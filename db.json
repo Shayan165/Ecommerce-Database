@@ -1,0 +1,274 @@
+{
+    "brands": [
+      {
+        "id": 1,
+        "brandName": "Apple"
+      },
+      {
+        "id": 2,
+        "brandName": "Sony"
+      },
+      {
+        "id": 3,
+        "brandName": "Samsung"
+      },
+      {
+        "id": 4,
+        "brandName": "Carrier"
+      },
+      {
+        "id": 5,
+        "brandName": "Dell"
+      },
+      {
+        "id": 6,
+        "brandName": "HP"
+      },
+      {
+        "id": 7,
+        "brandName": "Lenovo"
+      }
+    ],
+    "categories": [
+      {
+        "id": 1,
+        "categoryName": "Mobile"
+      },
+      {
+        "id": 2,
+        "categoryName": "Electronics"
+      },
+      {
+        "id": 3,
+        "categoryName": "Appliances"
+      },
+      {
+        "id": 4,
+        "categoryName": "Laptops"
+      },
+      {
+        "id": 5,
+        "categoryName": "Home Appliances"
+      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "productName": "Apple iPhone",
+        "price": 8900,
+        "brandId": 1,
+        "categoryId": 1,
+        "rating": 5
+      },
+      {
+        "id": 2,
+        "productName": "Apple iPad Pro",
+        "price": 12400,
+        "brandId": 1,
+        "categoryId": 2,
+        "rating": 5
+      },
+      {
+        "id": 3,
+        "productName": "Sony Camera",
+        "price": 4500,
+        "brandId": 2,
+        "categoryId": 2,
+        "rating": 4
+      },
+      {
+        "id": 4,
+        "productName": "Sony 5.1 Home Theatre",
+        "price": 4500,
+        "brandId": 2,
+        "categoryId": 2,
+        "rating": 4
+      },
+      {
+        "id": 5,
+        "productName": "Carrier 2 Ton Air Conditioner",
+        "price": 7780,
+        "brandId": 4,
+        "categoryId": 3,
+        "rating": 3
+      },
+      {
+        "id": 6,
+        "productName": "Dell Monitor",
+        "price": 880,
+        "brandId": 5,
+        "categoryId": 2,
+        "rating": 4
+      },
+      {
+        "id": 7,
+        "productName": "Sony Mobile Phone",
+        "price": 4848,
+        "brandId": 2,
+        "categoryId": 1,
+        "rating": 2
+      },
+      {
+        "id": 8,
+        "productName": "Samsung Mobile Phone",
+        "price": 2540,
+        "brandId": 3,
+        "categoryId": 1,
+        "rating": 2
+      },
+      {
+        "id": 9,
+        "productName": "HP Pavilion Laptop",
+        "price": 1200,
+        "brandId": 6,
+        "categoryId": 4,
+        "rating": 4
+      },
+      {
+        "id": 10,
+        "productName": "Lenovo ThinkPad",
+        "price": 1500,
+        "brandId": 7,
+        "categoryId": 4,
+        "rating": 5
+      }
+    ],
+    "users": [
+      {
+        "id": 1,
+        "email": "scott@test.com",
+        "password": "Scott123",
+        "fullName": "Scott",
+        "dateOfBirth": "2000-12-15",
+        "gender": "male",
+        "country": "UK",
+        "receiveNewsLetters": true
+      },
+      {
+        "email": "prasun@gmail.com",
+        "password": "undertaker",
+        "fullname": "SHUBH",
+        "dateOfBirth": "2023-12-24",
+        "gender": "male",
+        "country": "India",
+        "recievenewsletters": true,
+        "id": 2
+      },
+      {
+        "email": "deer@gmail.com",
+        "password": "PATHAK",
+        "fullname": "SHUBH",
+        "dateOfBirth": "2023-12-30",
+        "gender": "male",
+        "country": "Laos",
+        "recievenewsletters": true,
+        "id": 3
+      },
+      {
+        "email": "madmax@mail.com",
+        "password": "1234",
+        "fullname": "madmax",
+        "dateofbirth": "2024-01-11",
+        "gender": "male",
+        "country": "India",
+        "receivenewsletters": true,
+        "id": 4
+      },
+      {
+        "email": "john@example.com",
+        "password": "password123",
+        "fullname": "John Doe",
+        "dateOfBirth": "1995-05-20",
+        "gender": "male",
+        "country": "USA",
+        "recievenewsletters": false,
+        "id": 5
+      },
+      {
+        "email": "jane@example.com",
+        "password": "secretword",
+        "fullname": "Jane Doe",
+        "dateOfBirth": "1990-08-10",
+        "gender": "female",
+        "country": "Canada",
+        "recievenewsletters": true,
+        "id": 6
+      },
+      {
+        "email": "Titan@gmail.com",
+        "password": "4567",
+        "fullname": "Titan",
+        "dateofbirth": "2024-01-04",
+        "gender": "male",
+        "country": "Scotland",
+        "receivenewsletters": true,
+        "id": 7
+      }
+    ],
+    "orders": [
+      {
+        "id": 1,
+        "productId": 1,
+        "userId": 1,
+        "quantity": 5,
+        "isPaymentCompleted": false
+      },
+      {
+        "id": 2,
+        "productId": 3,
+        "userId": 4,
+        "quantity": 12,
+        "isPaymentCompleted": true
+      },
+      {
+        "id": 3,
+        "productId": 4,
+        "userId": 4,
+        "quantity": 1,
+        "isPaymentCompleted": true
+      },
+      {
+        "id": 5,
+        "productId": 10,
+        "userId": 4,
+        "quantity": 2,
+        "isPaymentCompleted": true
+      },
+      {
+        "id": 6,
+        "productId": 5,
+        "userId": 4,
+        "quantity": 8,
+        "isPaymentCompleted": true
+      },
+      {
+        "id": 7,
+        "productId": 2,
+        "userId": 6,
+        "quantity": 4,
+        "isPaymentCompleted": false
+      },
+      {
+        "id": 8,
+        "productId": 6,
+        "userId": 1,
+        "quantity": 10,
+        "isPaymentCompleted": true
+      },
+      {
+        "id": 9,
+        "productId": 8,
+        "userId": 3,
+        "quantity": 6,
+        "isPaymentCompleted": false
+      },
+      {
+        "id": 10,
+        "productId": 9,
+        "userId": 2,
+        "quantity": 3,
+        "isPaymentCompleted": true
+      }
+    ]
+  }
+  
