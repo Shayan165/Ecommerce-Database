@@ -142,7 +142,8 @@
         "dateOfBirth": "2000-12-15",
         "gender": "male",
         "country": "UK",
-        "receiveNewsLetters": true
+        "receiveNewsLetters": true,
+        "role":"user"
       },
       {
         "email": "prasun@gmail.com",
@@ -152,7 +153,8 @@
         "gender": "male",
         "country": "India",
         "recievenewsletters": true,
-        "id": 2
+        "id": 2,
+        "role":"user"
       },
       {
         "email": "deer@gmail.com",
@@ -162,7 +164,8 @@
         "gender": "male",
         "country": "Laos",
         "recievenewsletters": true,
-        "id": 3
+        "id": 3,
+        "role":"user"
       },
       {
         "email": "madmax@mail.com",
@@ -172,7 +175,8 @@
         "gender": "male",
         "country": "India",
         "receivenewsletters": true,
-        "id": 4
+        "id": 4,
+        "role":"admin"
       },
       {
         "email": "john@example.com",
@@ -182,7 +186,8 @@
         "gender": "male",
         "country": "USA",
         "recievenewsletters": false,
-        "id": 5
+        "id": 5,
+        "role":"user"
       },
       {
         "email": "jane@example.com",
@@ -192,7 +197,8 @@
         "gender": "female",
         "country": "Canada",
         "recievenewsletters": true,
-        "id": 6
+        "id": 6,
+        "role":"user"
       },
       {
         "email": "Titan@gmail.com",
@@ -202,7 +208,8 @@
         "gender": "male",
         "country": "Scotland",
         "receivenewsletters": true,
-        "id": 7
+        "id": 7,
+        "role":"user"
       }
     ],
     "orders": [
