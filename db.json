@@ -27,6 +27,42 @@
       {
         "id": 7,
         "brandName": "Lenovo"
+      },
+      {
+        "id": 8,
+        "brandName": "LG"
+      },
+      {
+        "id": 9,
+        "brandName": "Canon"
+      },
+      {
+        "id": 10,
+        "brandName": "Bose"
+      },
+      {
+        "id": 11,
+        "brandName": "Panasonic"
+      },
+      {
+        "id": 12,
+        "brandName": "Acer"
+      },
+      {
+        "id": 13,
+        "brandName": "Beats by Dre"
+      },
+      {
+        "id": 14,
+        "brandName": "Huawei"
+      },
+      {
+        "id": 15,
+        "brandName": "Toshiba"
+      },
+      {
+        "id": 16,
+        "brandName": "JBL"
       }
     ],
     "categories": [
@@ -49,6 +85,26 @@
       {
         "id": 5,
         "categoryName": "Home Appliances"
+      },
+      {
+        "id": 6,
+        "categoryName": "TVs"
+      },
+      {
+        "id": 7,
+        "categoryName": "Audio"
+      },
+      {
+        "id": 8,
+        "categoryName": "Cameras"
+      },
+      {
+        "id": 9,
+        "categoryName": "Headphones"
+      },
+      {
+        "id": 10,
+        "categoryName": "Kitchen Appliances"
       }
     ],
     "products": [
@@ -131,6 +187,86 @@
         "brandId": 7,
         "categoryId": 4,
         "rating": 5
+      },
+      {
+        "id": 11,
+        "productName": "Samsung Smart TV",
+        "price": 3200,
+        "brandId": 3,
+        "categoryId": 6,
+        "rating": 4
+      },
+      {
+        "id": 12,
+        "productName": "LG Soundbar",
+        "price": 950,
+        "brandId": 8,
+        "categoryId": 7,
+        "rating": 3
+      },
+      {
+        "id": 13,
+        "productName": "Canon DSLR Camera",
+        "price": 5800,
+        "brandId": 9,
+        "categoryId": 8,
+        "rating": 5
+      },
+      {
+        "id": 14,
+        "productName": "Bose Wireless Headphones",
+        "price": 2400,
+        "brandId": 10,
+        "categoryId": 9,
+        "rating": 4
+      },
+      {
+        "id": 15,
+        "productName": "Panasonic Microwave Oven",
+        "price": 750,
+        "brandId": 11,
+        "categoryId": 10,
+        "rating": 3
+      },
+      {
+        "id": 16,
+        "productName": "Acer Gaming Laptop",
+        "price": 1800,
+        "brandId": 12,
+        "categoryId": 4,
+        "rating": 5
+      },
+      {
+        "id": 17,
+        "productName": "Beats by Dre Wireless Earbuds",
+        "price": 350,
+        "brandId": 13,
+        "categoryId": 9,
+        "rating": 4
+      },
+      {
+        "id": 18,
+        "productName": "Huawei Smartwatch",
+        "price": 420,
+        "brandId": 14,
+        "categoryId": 2,
+        "rating": 4
+      },
+      {
+        "id": 19,
+        "productName": "Toshiba External Hard Drive",
+        "price": 120,
+        "brandId": 15,
+        "categoryId": 2,
+        "rating": 3
+      },
+      {
+        "id": 20,
+        "productName": "JBL Bluetooth Speaker",
+        "price": 150,
+        "brandId": 16,
+        "categoryId": 7,
+        "rating": 4
       }
     ],
     "users": [
@@ -144,29 +280,7 @@
         "country": "UK",
         "receiveNewsLetters": true,
         "role":"user"
-      },
-      {
-        "email": "prasun@gmail.com",
-        "password": "undertaker",
-        "fullname": "SHUBH",
-        "dateOfBirth": "2023-12-24",
-        "gender": "male",
-        "country": "India",
-        "recievenewsletters": true,
-        "id": 2,
-        "role":"user"
-      },
-      {
-        "email": "deer@gmail.com",
-        "password": "PATHAK",
-        "fullname": "SHUBH",
-        "dateOfBirth": "2023-12-30",
-        "gender": "male",
-        "country": "Laos",
-        "recievenewsletters": true,
-        "id": 3,
-        "role":"user"
-      },
+      },   
       {
         "email": "madmax@mail.com",
         "password": "1234",
@@ -177,29 +291,7 @@
         "receivenewsletters": true,
         "id": 4,
         "role":"admin"
-      },
-      {
-        "email": "john@example.com",
-        "password": "password123",
-        "fullname": "John Doe",
-        "dateOfBirth": "1995-05-20",
-        "gender": "male",
-        "country": "USA",
-        "recievenewsletters": false,
-        "id": 5,
-        "role":"user"
-      },
-      {
-        "email": "jane@example.com",
-        "password": "secretword",
-        "fullname": "Jane Doe",
-        "dateOfBirth": "1990-08-10",
-        "gender": "female",
-        "country": "Canada",
-        "recievenewsletters": true,
-        "id": 6,
-        "role":"user"
-      },
+      },   
       {
         "email": "Titan@gmail.com",
         "password": "4567",
