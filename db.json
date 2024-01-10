@@ -282,9 +282,9 @@
         "role":"user"
       },   
       {
-        "email": "madmax@mail.com",
+        "email": "admin@gmail.com",
         "password": "1234",
-        "fullname": "madmax",
+        "fullname": "admin",
         "dateofbirth": "2024-01-11",
         "gender": "male",
         "country": "India",
@@ -293,9 +293,9 @@
         "role":"admin"
       },   
       {
-        "email": "Titan@gmail.com",
-        "password": "4567",
-        "fullname": "Titan",
+        "email": "user@gmail.com",
+        "password": "1234",
+        "fullname": "user",
         "dateofbirth": "2024-01-04",
         "gender": "male",
         "country": "Scotland",
