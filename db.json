@@ -19,50 +19,6 @@
       {
         "id": 5,
         "brandName": "Dell"
-      },
-      {
-        "id": 6,
-        "brandName": "HP"
-      },
-      {
-        "id": 7,
-        "brandName": "Lenovo"
-      },
-      {
-        "id": 8,
-        "brandName": "LG"
-      },
-      {
-        "id": 9,
-        "brandName": "Canon"
-      },
-      {
-        "id": 10,
-        "brandName": "Bose"
-      },
-      {
-        "id": 11,
-        "brandName": "Panasonic"
-      },
-      {
-        "id": 12,
-        "brandName": "Acer"
-      },
-      {
-        "id": 13,
-        "brandName": "Beats by Dre"
-      },
-      {
-        "id": 14,
-        "brandName": "Huawei"
-      },
-      {
-        "id": 15,
-        "brandName": "Toshiba"
-      },
-      {
-        "id": 16,
-        "brandName": "JBL"
       }
     ],
     "categories": [
@@ -77,34 +33,6 @@
       {
         "id": 3,
         "categoryName": "Appliances"
-      },
-      {
-        "id": 4,
-        "categoryName": "Laptops"
-      },
-      {
-        "id": 5,
-        "categoryName": "Home Appliances"
-      },
-      {
-        "id": 6,
-        "categoryName": "TVs"
-      },
-      {
-        "id": 7,
-        "categoryName": "Audio"
-      },
-      {
-        "id": 8,
-        "categoryName": "Cameras"
-      },
-      {
-        "id": 9,
-        "categoryName": "Headphones"
-      },
-      {
-        "id": 10,
-        "categoryName": "Kitchen Appliances"
       }
     ],
     "products": [
@@ -171,102 +99,6 @@
         "brandId": 3,
         "categoryId": 1,
         "rating": 2
-      },
-      {
-        "id": 9,
-        "productName": "HP Pavilion Laptop",
-        "price": 1200,
-        "brandId": 6,
-        "categoryId": 4,
-        "rating": 4
-      },
-      {
-        "id": 10,
-        "productName": "Lenovo ThinkPad",
-        "price": 1500,
-        "brandId": 7,
-        "categoryId": 4,
-        "rating": 5
-      },
-      {
-        "id": 11,
-        "productName": "Samsung Smart TV",
-        "price": 3200,
-        "brandId": 3,
-        "categoryId": 6,
-        "rating": 4
-      },
-      {
-        "id": 12,
-        "productName": "LG Soundbar",
-        "price": 950,
-        "brandId": 8,
-        "categoryId": 7,
-        "rating": 3
-      },
-      {
-        "id": 13,
-        "productName": "Canon DSLR Camera",
-        "price": 5800,
-        "brandId": 9,
-        "categoryId": 8,
-        "rating": 5
-      },
-      {
-        "id": 14,
-        "productName": "Bose Wireless Headphones",
-        "price": 2400,
-        "brandId": 10,
-        "categoryId": 9,
-        "rating": 4
-      },
-      {
-        "id": 15,
-        "productName": "Panasonic Microwave Oven",
-        "price": 750,
-        "brandId": 11,
-        "categoryId": 10,
-        "rating": 3
-      },
-      {
-        "id": 16,
-        "productName": "Acer Gaming Laptop",
-        "price": 1800,
-        "brandId": 12,
-        "categoryId": 4,
-        "rating": 5
-      },
-      {
-        "id": 17,
-        "productName": "Beats by Dre Wireless Earbuds",
-        "price": 350,
-        "brandId": 13,
-        "categoryId": 9,
-        "rating": 4
-      },
-      {
-        "id": 18,
-        "productName": "Huawei Smartwatch",
-        "price": 420,
-        "brandId": 14,
-        "categoryId": 2,
-        "rating": 4
-      },
-      {
-        "id": 19,
-        "productName": "Toshiba External Hard Drive",
-        "price": 120,
-        "brandId": 15,
-        "categoryId": 2,
-        "rating": 3
-      },
-      {
-        "id": 20,
-        "productName": "JBL Bluetooth Speaker",
-        "price": 150,
-        "brandId": 16,
-        "categoryId": 7,
-        "rating": 4
       }
     ],
     "users": [
