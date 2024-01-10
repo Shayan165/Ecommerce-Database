@@ -121,7 +121,7 @@
         "gender": "male",
         "country": "India",
         "receivenewsletters": true,
-        "id": 4,
+        "id": 2,
         "role":"admin"
       },   
       {
@@ -132,72 +132,17 @@
         "gender": "male",
         "country": "Scotland",
         "receivenewsletters": true,
-        "id": 7,
+        "id": 3,
         "role":"user"
       }
     ],
     "orders": [
+  
       {
         "id": 1,
-        "productId": 1,
-        "userId": 1,
-        "quantity": 5,
-        "isPaymentCompleted": false
-      },
-      {
-        "id": 2,
         "productId": 3,
-        "userId": 4,
-        "quantity": 12,
-        "isPaymentCompleted": true
-      },
-      {
-        "id": 3,
-        "productId": 4,
-        "userId": 4,
-        "quantity": 1,
-        "isPaymentCompleted": true
-      },
-      {
-        "id": 5,
-        "productId": 10,
-        "userId": 4,
-        "quantity": 2,
-        "isPaymentCompleted": true
-      },
-      {
-        "id": 6,
-        "productId": 5,
-        "userId": 4,
-        "quantity": 8,
-        "isPaymentCompleted": true
-      },
-      {
-        "id": 7,
-        "productId": 2,
-        "userId": 6,
-        "quantity": 4,
-        "isPaymentCompleted": false
-      },
-      {
-        "id": 8,
-        "productId": 6,
-        "userId": 1,
-        "quantity": 10,
-        "isPaymentCompleted": true
-      },
-      {
-        "id": 9,
-        "productId": 8,
-        "userId": 3,
-        "quantity": 6,
-        "isPaymentCompleted": false
-      },
-      {
-        "id": 10,
-        "productId": 9,
         "userId": 2,
-        "quantity": 3,
+        "quantity": 12,
         "isPaymentCompleted": true
       }
     ]
