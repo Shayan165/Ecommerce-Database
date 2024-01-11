@@ -115,7 +115,7 @@
       },   
       {
         "email": "admin@gmail.com",
-        "password": "1234",
+        "password": "12345678",
         "fullname": "admin",
         "dateofbirth": "2024-01-11",
         "gender": "male",
@@ -126,7 +126,7 @@
       },   
       {
         "email": "user@gmail.com",
-        "password": "1234",
+        "password": "12345678",
         "fullname": "user",
         "dateofbirth": "2024-01-04",
         "gender": "male",
